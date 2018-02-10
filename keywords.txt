@@ -25,5 +25,5 @@ setControleerSensoren	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-VOORUIT LITERAL1
-ACHTERUIT LITERAL1
+VOORUIT	LITERAL1
+ACHTERUIT	LITERAL1
